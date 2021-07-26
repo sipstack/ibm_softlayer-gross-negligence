@@ -1,4 +1,7 @@
 # IBM / SoftLayer "Gross Negligence" Event at TOR01 Datacenter
+
+ <img src="https://www.sipstack.com/community/wp-content/uploads/2021/07/ibm-gross-negligence-half.png" height="400">
+
 ## Location of Datacenter
 IBM Campus: CASL1
 371 Gough Road Suite 130
