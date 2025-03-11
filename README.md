@@ -1,6 +1,6 @@
 # IBM / SoftLayer "Gross Negligence" Event at TOR01 Datacenter
 
- <img src="https://www.sipstack.com/assets/img/resources/blog/20210712-announcing-ucs-transition-into-open-source/ibm-gross-negligence-half.png" height="400">
+ <img src="https://www.sipstack.com/assets/img/resources/blog/announcing-ucs-transition-into-open-source/ibm-gross-negligence-half.png" height="400">
 
 ## Location of Datacenter
 IBM Campus: CASL1
